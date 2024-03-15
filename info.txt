@@ -1,0 +1,28 @@
+﻿{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"version":"3","name":"Unnamed server","port":"50001","clients":"0","maxclients":"200","masterpw":"","maintenance":"0"}
+{"version":"2","name":"Unnamed server","port":"50000","clients":"0","maxclients":"200","masterpw":"","maintenance":"0"}
+{"version":"3","name":"Unnamed server","port":"50001","clients":"0","maxclients":"200","masterpw":"","maintenance":"0"}
+{"version":"2","name":"Unnamed server","port":"50000","clients":"0","maxclients":"200","masterpw":"","maintenance":"0"}
+{"version":"3","name":"Unnamed server","port":"50001","clients":"0","maxclients":"200","masterpw":"","maintenance":"0"}
+{"version":"2","name":"Unnamed server","port":"50000","clients":"0","maxclients":"200","masterpw":"","maintenance":"0"}
+{"version":"3","name":"Unnamed server","port":"50001","clients":"0","maxclients":"200","masterpw":"","maintenance":"0"}
+{"version":"2","name":"Unnamed server","port":"50000","clients":"0","maxclients":"200","masterpw":"","maintenance":"0"}
+{"version":"3","name":"Unnamed server","port":"50001","clients":"0","maxclients":"200","masterpw":"","maintenance":"0"}
+{"version":"2","name":"Unnamed server","port":"50000","clients":"0","maxclients":"200","masterpw":"","maintenance":"0"}
+{"version":"3","name":"Unnamed server","port":"50001","clients":"0","maxclients":"200","masterpw":"","maintenance":"0"}
+{"version":"2","name":"Unnamed server","port":"50000","clients":"0","maxclients":"200","masterpw":"","maintenance":"0"}
+{"version":"3","name":"Unnamed server","port":"50001","clients":"0","maxclients":"200","masterpw":"","maintenance":"0"}
+{"version":"2","name":"Unnamed server","port":"50000","clients":"0","maxclients":"200","masterpw":"","maintenance":"0"}
+{"version":"3","name":"Unnamed server","port":"50001","clients":"0","maxclients":"200","masterpw":"","maintenance":"0"}
+{"version":"2","name":"Unnamed server","port":"50000","clients":"0","maxclients":"200","masterpw":"","maintenance":"0"}
+{"version":"3","name":"Unnamed server","port":"50001","clients":"0","maxclients":"200","masterpw":"123","maintenance":"0"}
+{"version":"2","name":"Unnamed server","port":"50000","clients":"0","maxclients":"200","masterpw":"123","maintenance":"0"}
+{"version":"3","name":"Unnamed server","port":"50001","clients":"0","maxclients":"200","masterpw":"","maintenance":"0"}
+{"version":"2","name":"Unnamed server","port":"50000","clients":"0","maxclients":"200","masterpw":"","maintenance":"0"}
